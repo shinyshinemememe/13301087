@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="servlet-api.jar"/>
+	<classpathentry kind="lib" path="org.apache.jasper.jar"/>
+	<classpathentry kind="lib" path="jsp-api.jar"/>
+	<classpathentry kind="lib" path="jsp-2.1-6.1.10.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
