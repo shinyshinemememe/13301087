@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="G:/大三上/java ee 架构与应用/HW5/Ioc_demo_src/lib/j2ee.jar"/>
+	<classpathentry kind="lib" path="G:/大三上/java ee 架构与应用/HW5/Ioc_demo_src/lib/javassist.jar"/>
+	<classpathentry kind="lib" path="G:/大三上/java ee 架构与应用/HW5/Ioc_demo_src/lib/jdom.jar"/>
+	<classpathentry kind="lib" path="G:/大三上/java ee 架构与应用/HW5/Ioc_demo_src/lib/jmin.jar"/>
+	<classpathentry kind="lib" path="G:/大三上/java ee 架构与应用/HW5/Ioc_demo_src/lib/ognl.jar"/>
+	<classpathentry kind="lib" path="G:/大三上/java ee 架构与应用/HW5/Ioc_demo_src/lib/proguard.jar"/>
+	<classpathentry kind="lib" path="G:/大三上/java ee 架构与应用/HW5/Ioc_demo_src/lib/servlet.jar"/>
+	<classpathentry kind="lib" path="G:/大三上/java ee 架构与应用/HW5/Ioc_demo_src/lib/xerces.jar"/>
+	<classpathentry kind="lib" path="G:/大三上/java ee 架构与应用/HW5/Ioc_demo_src/lib/xml-apis.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

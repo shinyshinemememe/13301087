@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<beans>
+  <bean id ="Bean1" class="org.jmin.test.ioc.autowire.Boy">
+     <autowire>ByName</autowire>
+  </bean>
+   <bean id ="Bean2" class="org.jmin.test.ioc.autowire.Boy">
+     <autowire>ByType</autowire>
+  </bean>
+  <bean id ="name" class="java.lang.String">
+    <constructor>
+       <constructor-arg value="Chris"/>
+     </constructor>
+  </bean>
+  <bean id ="age" class="java.lang.Integer">
+     <constructor>
+       <constructor-arg value="28"/>
+     </constructor>
+  </bean>
+</beans>
